@@ -32,10 +32,28 @@ As a course editor, I want to add content (lectures, videos, documents, etc.) to
 
 Present the course editor with a web application to create lectures for the course. The course editor will use a specialized markup language to create the lecture that will be render as HTML web page to the students.
 
-## 3. Payment methods
+## 4. Manage object information
 
-As a student, I want to buy a course.
+### 4.1 Manage users and full application
 
-### 3.1 
+### 4.2 Manage manager's activities
 
-## 4. 
+## 5. Course management
+
+### 5.1 Manage courses
+
+Managers should be able to view all courses created on the platform.
+
+![](./list-of-courses.png)
+
+## 6. User management
+
+### 6.1 Manage users
+
+![](./list-of-users.png)
+
+Managers will be able to view all the users that signed up for the learning platform.
+
+Managers will be able to delete users.
+
+Managers will be able view which courses the user had learned.
