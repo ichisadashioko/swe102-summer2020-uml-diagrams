@@ -56,4 +56,4 @@ Managers will be able to view all the users that signed up for the learning plat
 
 Managers will be able to delete users.
 
-Managers will be able view which courses the user had learned.
+Managers will be able to view which courses the user has learned.
